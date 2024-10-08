@@ -1,3 +1,9 @@
+// Mahera Asin 
+// October 08 2024 
+// Creating a recursive solution to count the number of vowels in a string.
+
+
+
 import java.util.Scanner;
 
 public class Main {
@@ -12,7 +18,7 @@ public class Main {
         int vowelCount = Vowels.countVowels(inputString, 0);
 
 
-        System.out.println("The number of vowels in the string is: " + vowelCount);
+        System.out.println("Vowel count: " + vowelCount);
 
       
         scanner.close();
